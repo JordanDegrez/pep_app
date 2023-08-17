@@ -1,10 +1,8 @@
 :root{
-    --violet:#4D308C;
-    --bleu:#1C71A6;
-    --jaune:#F2C36B;
-    --jaune-clair:#fcf5e2;
-    --corail-1:#D93250;
-    --corail-2:#D95B5B;
+    --vert:#264F36;
+    --jaune:#FFBC0D;
+    --gris:#404040;
+    --gris-clair:#F7F7F7;
     --noir:#000;
     --blanc:#fff;
 }
