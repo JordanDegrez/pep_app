@@ -1,0 +1,22 @@
+.nav-btn{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+}
+.btn-bar{
+    position: relative;
+    width: 30px;
+    height: 5px;
+    background-color: var(--violet);
+    border-radius: 20px;
+}
+.menu:nth-child(2){
+    top: 3px;
+}
+.menu:nth-child(3){
+    top: 6px;
+}
+.close{
+    display: none;
+}
