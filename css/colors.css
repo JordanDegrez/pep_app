@@ -1,8 +1,10 @@
 :root{
     --vert:#264F36;
+    --vert-hover:rgba(38, 79, 54, 0.1);
     --jaune:#FFBC0D;
     --gris:#404040;
     --gris-clair:#F7F7F7;
+    --gris-background:#F2F2F2;
     --noir:#000;
     --blanc:#fff;
 }
